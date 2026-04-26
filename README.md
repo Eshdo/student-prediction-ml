@@ -56,7 +56,7 @@ Initially, the model showed biased predictions. By improving dataset quality and
 
 ## 🌐 Live Demo
 
-👉 [Add your Streamlit App Link Here]
+👉 https://student-prediction-ml-a65jifv9cytnbtrema6dmn.streamlit.app/
 
 ---
 
